@@ -1,9 +1,17 @@
 # Challenge 1
 Bootcamp Assignment due Nov 10, 2022
 
-## Notes
-I updated prewritten code to make it more accessible.
+## Notes from Student
+I updated prewritten code to make it more accessible. I added used semantic tags, relocated images, and debugged issues with links. 
 
+I also installed a screen reader extension on my browser to better understand the user experience. 
+
+
+
+
+__________________
+
+## Copy and Pasted information from Challenge 1
 
 ## User Story
 
