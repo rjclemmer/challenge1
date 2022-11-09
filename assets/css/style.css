@@ -1,13 +1,16 @@
+/* this styles the whole page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* this sets the background color of the body */
 body {
     background-color: #d9dcd6;
 }
 
+/* this class styles the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,6 +19,7 @@ body {
     display:block;
 }
 
+/* these two classes format the header text */
 .header h1 {
     display: inline;
     font-size: 48px;
@@ -26,6 +30,7 @@ body {
     display: inline;
 }
 
+/* these classes style the navigation links */
 .header nav {
     padding-top: 0px;
     margin-right: 0px;
@@ -43,15 +48,18 @@ body {
     margin-left: 0px;
 }
 
+/* this styles the text in the navigation bar */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* this styles all font */
 p {
     font-size: 16px;
 }
 
+/* this element styles the main image */
 #main-image {
     height: 1000px;
     width: 100%;
@@ -61,21 +69,26 @@ p {
     margin-bottom: 25px;
 }
 
+/* this class will shift an element left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* this class will shift an element right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* this styles the container holding the different articles */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* these benefit classes style the articles in the aside */
 
 .benefits {
     margin-right: 20px;
@@ -88,21 +101,25 @@ p {
     background-color: #2589bd;
 }
 
+/* this styles the Benefit Lead article */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* this styles the Benefit Brand article */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* this styles the Benefit Cost article */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* this style the headers in the different articles in the aside */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -118,6 +135,7 @@ p {
     text-align: center;
 }
 
+/* these style the different images in the different articles in the aside  */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -145,6 +163,7 @@ p {
     color: #ffffff;
 }
 
+/* this class styles the Online Reputation article */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -154,6 +173,7 @@ p {
     color: #ffffff;
 }
 
+/* this class styles the Social Media Marketing article*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,6 +183,7 @@ p {
     color: #ffffff;
 }
 
+/* these classes styles the images for the different articles in the main section */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -175,6 +196,7 @@ p {
     max-height: 200px;
 }
 
+/* these classes styles the headers for the different articles in the main section */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -190,6 +212,7 @@ p {
     font-size: 36px;
 }
 
+/* these classes style the footer */
 .footer {
     padding: 30px;
     clear: both;
