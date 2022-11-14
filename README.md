@@ -1,11 +1,15 @@
 # Challenge 1
 Bootcamp Assignment due Nov 10, 2022
 
+# Link URL
+https://rjclemmer.github.io/challenge1/ 
+
 ## Notes from Student
 I updated prewritten code to make it more accessible. I added used semantic tags, relocated images, and debugged issues with links. 
 
 I also installed a screen reader extension on my browser to better understand the user experience. 
 
+<img src="/repository/assets/images/website1.png" alt="website screenshot 1" title="Website Screenshot 1">
 
 
 
