@@ -9,7 +9,12 @@ I updated prewritten code to make it more accessible. I added used semantic tags
 
 I also installed a screen reader extension on my browser to better understand the user experience. 
 
-<img src="./assets/images/website1.png" alt="website screenshot 1" title="Website Screenshot 1" height="60" width="60">
+## Screenshots
+<img src="./assets/images/website1.png" alt="website screenshot 1" title="Website Screenshot 1">
+
+<img src="./assets/images/website2.png" alt="website screenshot 2" title="website Screenshot 2">
+
+<img src="./assets/images/website3.png" alt="website screenshot 3" title="website Screenshot 3">
 
 
 
